@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# csvデータはコミットしない
+*.csv
+
+# pycharmの設定は除外
+.idea
